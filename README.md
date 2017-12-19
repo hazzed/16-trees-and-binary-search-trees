@@ -29,7 +29,7 @@
     * installing and using your data structure
     * accessing each method
     * running your tests
-* Add a `remove(value)` method to the BinarySearchTree class presented in class. 
+
 #### Feature Tasks  
 * Add a `remove(value)` method to the BinarySearchTree class presented in class. 
 
