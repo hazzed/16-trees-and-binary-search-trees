@@ -1,0 +1,19 @@
+{
+  "name": "16-trees-and-binary-search-trees",
+  "version": "1.0.0",
+  "description": "Lab 16 Binary Search Trees",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest -i --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hazzed/16-trees-and-binary-search-trees.git"
+  },
+  "author": "Dalton Carr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hazzed/16-trees-and-binary-search-trees/issues"
+  },
+  "homepage": "https://github.com/hazzed/16-trees-and-binary-search-trees#readme"
+}
