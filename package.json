@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/hazzed/16-trees-and-binary-search-trees/issues"
   },
-  "homepage": "https://github.com/hazzed/16-trees-and-binary-search-trees#readme"
+  "homepage": "https://github.com/hazzed/16-trees-and-binary-search-trees#readme",
+  "dependencies": {
+    "eslint": "^4.13.1",
+    "jest": "^22.0.3"
+  }
 }
